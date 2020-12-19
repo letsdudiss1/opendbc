@@ -50,6 +50,8 @@ BO_ 64 Throttle: 8 XXX
  SG_ Throttle_Combo : 48|8@1+ (1,0) [0|255] "" XXX
  SG_ Signal1 : 56|4@1+ (1,0) [0|15] "" XXX
  SG_ Off_Accel : 60|4@1+ (1,0) [0|15] "" XXX
+ SG_ SPARE_SIGNAL_1 : 15|4@0+ (1,0) [0|15] "" XXX
+ SG_ SPARE_SIGNAL_2 : 31|4@0+ (1,0) [0|15] "" XXX
 
 BO_ 316 Brake_Status: 8 XXX
  SG_ CHECKSUM : 0|8@1+ (1,0) [0|255] "" XXX
